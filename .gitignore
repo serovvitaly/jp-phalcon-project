@@ -1,7 +1,7 @@
 # Created by .ignore support plugin (hsz.mobi)
 ### Phalcon template
 app/cache/
-/config/development/
+app/config/development/
 .idea/
 .nginx/
 .phalcon/
