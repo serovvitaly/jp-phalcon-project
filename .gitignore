@@ -1,6 +1,6 @@
 # Created by .ignore support plugin (hsz.mobi)
 ### Phalcon template
-/cache/
+app/cache/
 /config/development/
 .idea/
 .nginx/
